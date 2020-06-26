@@ -1,4 +1,4 @@
-# Spotify-artist-analysis
+# Spotify-artist-analysis ![P:Swarupa](https://img.shields.io/badge/P-Swarupa-red) 
 
 ## Project Introduction
 
@@ -21,7 +21,7 @@ Establish models to predict track popularity by machine learning algorithms.
 
 Spotify has provided amazing API resources:
 
-
+![API Link](https://developer.spotify.com/documentation/web-api/reference/tracks/) 
 
 ## Libraries Used:
 Pandas
